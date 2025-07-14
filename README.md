@@ -1,0 +1,1 @@
+This dashboard offers a multi-dimensional view of children's weight categories, spanning from the year 2000 to 2020. It explores patterns and distributions across gender, year, and regional hospitals, helping identify trends in underweight, healthy weight, overweight, and obesity rates.
